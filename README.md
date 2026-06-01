@@ -7,6 +7,8 @@ Built with **Vite + React + TypeScript + Tailwind CSS**, animated with **Framer 
 **GSAP**, and **Lenis** smooth scroll, and fully internationalized in **7 languages**
 (English, Arabic with RTL, French, Spanish, Russian, Italian, German).
 
+Code updated
+
 ## Tech stack
 
 | Concern        | Library |
