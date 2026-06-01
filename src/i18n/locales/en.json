@@ -10,7 +10,7 @@
     "eyebrow": "Industrial IoT • AI Solutions • Automation",
     "headline1": "Bridging IT and",
     "headline2": "Industrial Automation",
-    "subheading": "We build enterprise software, AI solutions, and industrial IoT systems that connect your shop floor to your boardroom. Trusted by Stolle Machinery, Q3Power, and Evaporation King.",
+    "subheading": "We build enterprise software, AI solutions, and industrial IoT systems that connect your shop floor to your boardroom. Trusted by industry leaders.",
     "cta_primary": "Schedule a Consultation",
     "cta_secondary": "View Our Work",
     "trusted_by": "Trusted By"
@@ -21,18 +21,19 @@
     "p1": "Onetechmated Solutions is a full-spectrum technology company with deep expertise at the intersection of industrial automation and enterprise software. We don't just write code — we engineer systems that connect physical industrial operations with intelligent digital layers.",
     "p2": "Our team has hands-on experience with PLCs, SCADA, MQTT protocols, and Ignition engineering on the industrial side, while simultaneously building custom SaaS platforms, AI agents, IoT dashboards, and ERP systems on the IT side. This rare dual expertise is what sets us apart.",
     "stats": {
-      "years": "5+",
+      "years": "6+",
       "years_label": "Years Experience",
-      "clients": "3",
-      "clients_label": "Industrial Clients",
-      "clients_names": "Stolle, Q3Power, EK",
+      "clients": "12+",
+      "clients_label": "Clients",
       "domains": "2",
       "domains_label": "Domains — IT + OT",
-      "products": "3+",
-      "products_label": "Products Built & Deployed"
+      "products": "20+",
+      "products_label": "Projects & Products Built & Deployed"
     },
     "pills": [
       "IT + OT Integration",
+      "Web Apps · React / Next.js",
+      "Mobile Apps · React Native / Flutter",
       "AI-Powered Dashboards",
       "SCADA & Ignition",
       "Custom SaaS",

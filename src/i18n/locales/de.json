@@ -10,7 +10,7 @@
     "eyebrow": "Industrielles IoT • KI-Lösungen • Automatisierung",
     "headline1": "Wir verbinden IT und",
     "headline2": "industrielle Automatisierung",
-    "subheading": "Wir entwickeln Unternehmenssoftware, KI-Lösungen und industrielle IoT-Systeme, die Ihre Produktionshalle mit der Chefetage verbinden. Vertraut von Stolle Machinery, Q3Power und Evaporation King.",
+    "subheading": "Wir entwickeln Unternehmenssoftware, KI-Lösungen und industrielle IoT-Systeme, die Ihre Produktionshalle mit der Chefetage verbinden. Vertraut von Branchenführern.",
     "cta_primary": "Beratung vereinbaren",
     "cta_secondary": "Unsere Projekte ansehen",
     "trusted_by": "Vertraut von"
@@ -21,18 +21,19 @@
     "p1": "Onetechmated Solutions ist ein Technologieunternehmen mit vollem Leistungsspektrum und tiefer Expertise an der Schnittstelle von industrieller Automatisierung und Unternehmenssoftware. Wir schreiben nicht nur Code — wir konzipieren Systeme, die physische industrielle Abläufe mit intelligenten digitalen Ebenen verbinden.",
     "p2": "Unser Team verfügt über praktische Erfahrung mit SPS (PLC), SCADA, MQTT-Protokollen und Ignition-Engineering auf der industriellen Seite und entwickelt zugleich maßgeschneiderte SaaS-Plattformen, KI-Agenten, IoT-Dashboards und ERP-Systeme auf der IT-Seite. Diese seltene Doppelkompetenz zeichnet uns aus.",
     "stats": {
-      "years": "5+",
+      "years": "6+",
       "years_label": "Jahre Erfahrung",
-      "clients": "3",
-      "clients_label": "Industriekunden",
-      "clients_names": "Stolle, Q3Power, EK",
+      "clients": "12+",
+      "clients_label": "Kunden",
       "domains": "2",
       "domains_label": "Bereiche — IT + OT",
-      "products": "3+",
-      "products_label": "Produkte entwickelt & bereitgestellt"
+      "products": "20+",
+      "products_label": "Projekte & Produkte entwickelt & bereitgestellt"
     },
     "pills": [
       "IT + OT Integration",
+      "Web-Apps · React / Next.js",
+      "Mobile Apps · React Native / Flutter",
       "KI-gestützte Dashboards",
       "SCADA & Ignition",
       "Maßgeschneidertes SaaS",

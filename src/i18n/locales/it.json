@@ -10,7 +10,7 @@
     "eyebrow": "IoT Industriale • Soluzioni IA • Automazione",
     "headline1": "Colleghiamo l'IT e",
     "headline2": "l'automazione industriale",
-    "subheading": "Realizziamo software aziendali, soluzioni di IA e sistemi IoT industriali che collegano il reparto produttivo alla sala riunioni. Scelti da Stolle Machinery, Q3Power ed Evaporation King.",
+    "subheading": "Realizziamo software aziendali, soluzioni di IA e sistemi IoT industriali che collegano il reparto produttivo alla sala riunioni. Scelti dai leader del settore.",
     "cta_primary": "Prenota una consulenza",
     "cta_secondary": "I nostri progetti",
     "trusted_by": "Ci danno fiducia"
@@ -21,18 +21,19 @@
     "p1": "Onetechmated Solutions è un'azienda tecnologica a spettro completo con una profonda competenza all'incrocio tra automazione industriale e software aziendale. Non scriviamo solo codice — progettiamo sistemi che collegano le operazioni industriali fisiche a livelli digitali intelligenti.",
     "p2": "Il nostro team ha esperienza pratica con PLC, SCADA, protocolli MQTT e ingegneria Ignition sul fronte industriale, costruendo al contempo piattaforme SaaS su misura, agenti IA, dashboard IoT e sistemi ERP sul fronte IT. Questa rara doppia competenza è ciò che ci distingue.",
     "stats": {
-      "years": "5+",
+      "years": "6+",
       "years_label": "Anni di esperienza",
-      "clients": "3",
-      "clients_label": "Clienti industriali",
-      "clients_names": "Stolle, Q3Power, EK",
+      "clients": "12+",
+      "clients_label": "Clienti",
       "domains": "2",
       "domains_label": "Ambiti — IT + OT",
-      "products": "3+",
-      "products_label": "Prodotti creati e rilasciati"
+      "products": "20+",
+      "products_label": "Progetti e prodotti creati e rilasciati"
     },
     "pills": [
       "Integrazione IT + OT",
+      "Web App · React / Next.js",
+      "App mobili · React Native / Flutter",
       "Dashboard basate su IA",
       "SCADA e Ignition",
       "SaaS su misura",

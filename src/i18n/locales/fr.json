@@ -10,7 +10,7 @@
     "eyebrow": "IoT Industriel • Solutions IA • Automatisation",
     "headline1": "Relier l'informatique et",
     "headline2": "l'automatisation industrielle",
-    "subheading": "Nous concevons des logiciels d'entreprise, des solutions IA et des systèmes IoT industriels qui relient votre atelier à votre salle de direction. La confiance de Stolle Machinery, Q3Power et Evaporation King.",
+    "subheading": "Nous concevons des logiciels d'entreprise, des solutions IA et des systèmes IoT industriels qui relient votre atelier à votre salle de direction. La confiance des leaders du secteur.",
     "cta_primary": "Planifier une consultation",
     "cta_secondary": "Voir nos réalisations",
     "trusted_by": "Ils nous font confiance"
@@ -21,18 +21,19 @@
     "p1": "Onetechmated Solutions est une entreprise technologique à spectre complet, dotée d'une expertise pointue à l'intersection de l'automatisation industrielle et des logiciels d'entreprise. Nous n'écrivons pas seulement du code — nous concevons des systèmes qui relient les opérations industrielles physiques à des couches numériques intelligentes.",
     "p2": "Notre équipe possède une expérience concrète des automates PLC, du SCADA, des protocoles MQTT et de l'ingénierie Ignition côté industriel, tout en développant des plateformes SaaS sur mesure, des agents IA, des tableaux de bord IoT et des systèmes ERP côté informatique. Cette rare double expertise est ce qui nous distingue.",
     "stats": {
-      "years": "5+",
+      "years": "6+",
       "years_label": "Années d'expérience",
-      "clients": "3",
-      "clients_label": "Clients industriels",
-      "clients_names": "Stolle, Q3Power, EK",
+      "clients": "12+",
+      "clients_label": "Clients",
       "domains": "2",
       "domains_label": "Domaines — IT + OT",
-      "products": "3+",
-      "products_label": "Produits conçus et déployés"
+      "products": "20+",
+      "products_label": "Projets & produits conçus et déployés"
     },
     "pills": [
       "Intégration IT + OT",
+      "Apps web · React / Next.js",
+      "Apps mobiles · React Native / Flutter",
       "Tableaux de bord pilotés par l'IA",
       "SCADA & Ignition",
       "SaaS sur mesure",

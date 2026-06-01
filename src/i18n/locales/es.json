@@ -10,7 +10,7 @@
     "eyebrow": "IoT Industrial • Soluciones de IA • Automatización",
     "headline1": "Conectando la TI y la",
     "headline2": "automatización industrial",
-    "subheading": "Creamos software empresarial, soluciones de IA y sistemas de IoT industrial que conectan su planta de producción con su sala de dirección. Con la confianza de Stolle Machinery, Q3Power y Evaporation King.",
+    "subheading": "Creamos software empresarial, soluciones de IA y sistemas de IoT industrial que conectan su planta de producción con su sala de dirección. Con la confianza de líderes del sector.",
     "cta_primary": "Agendar una consulta",
     "cta_secondary": "Ver nuestro trabajo",
     "trusted_by": "Confían en nosotros"
@@ -21,18 +21,19 @@
     "p1": "Onetechmated Solutions es una empresa tecnológica de espectro completo con profunda experiencia en la intersección de la automatización industrial y el software empresarial. No solo escribimos código — diseñamos sistemas que conectan las operaciones industriales físicas con capas digitales inteligentes.",
     "p2": "Nuestro equipo tiene experiencia práctica con PLC, SCADA, protocolos MQTT e ingeniería Ignition en el lado industrial, a la vez que construye plataformas SaaS a medida, agentes de IA, paneles IoT y sistemas ERP en el lado de TI. Esta poco común doble experiencia es lo que nos distingue.",
     "stats": {
-      "years": "5+",
+      "years": "6+",
       "years_label": "Años de experiencia",
-      "clients": "3",
-      "clients_label": "Clientes industriales",
-      "clients_names": "Stolle, Q3Power, EK",
+      "clients": "12+",
+      "clients_label": "Clientes",
       "domains": "2",
       "domains_label": "Dominios — IT + OT",
-      "products": "3+",
-      "products_label": "Productos creados e implementados"
+      "products": "20+",
+      "products_label": "Proyectos y productos creados e implementados"
     },
     "pills": [
       "Integración IT + OT",
+      "Apps web · React / Next.js",
+      "Apps móviles · React Native / Flutter",
       "Paneles impulsados por IA",
       "SCADA e Ignition",
       "SaaS a medida",

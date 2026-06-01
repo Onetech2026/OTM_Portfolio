@@ -23,7 +23,6 @@ export default function About() {
     {
       value: t('about.stats.clients'),
       label: t('about.stats.clients_label'),
-      sub: t('about.stats.clients_names'),
     },
     {
       value: t('about.stats.domains'),
