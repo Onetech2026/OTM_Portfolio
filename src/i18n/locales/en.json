@@ -1,0 +1,194 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "contact": "Contact",
+    "cta": "Schedule a Call"
+  },
+  "hero": {
+    "eyebrow": "Industrial IoT • AI Solutions • Automation",
+    "headline1": "Bridging IT and",
+    "headline2": "Industrial Automation",
+    "subheading": "We build enterprise software, AI solutions, and industrial IoT systems that connect your shop floor to your boardroom. Trusted by Stolle Machinery, Q3Power, and Evaporation King.",
+    "cta_primary": "Schedule a Consultation",
+    "cta_secondary": "View Our Work",
+    "trusted_by": "Trusted By"
+  },
+  "about": {
+    "label": "About Us",
+    "heading": "End-to-End Technology Partner",
+    "p1": "Onetechmated Solutions is a full-spectrum technology company with deep expertise at the intersection of industrial automation and enterprise software. We don't just write code — we engineer systems that connect physical industrial operations with intelligent digital layers.",
+    "p2": "Our team has hands-on experience with PLCs, SCADA, MQTT protocols, and Ignition engineering on the industrial side, while simultaneously building custom SaaS platforms, AI agents, IoT dashboards, and ERP systems on the IT side. This rare dual expertise is what sets us apart.",
+    "stats": {
+      "years": "3+",
+      "years_label": "Years Experience",
+      "clients": "3",
+      "clients_label": "Industrial Clients",
+      "clients_names": "Stolle, Q3Power, EK",
+      "domains": "2",
+      "domains_label": "Domains — IT + OT",
+      "products": "3+",
+      "products_label": "Products Built & Deployed"
+    },
+    "pills": [
+      "IT + OT Integration",
+      "AI-Powered Dashboards",
+      "SCADA & Ignition",
+      "Custom SaaS",
+      "IIoT Architecture",
+      "Full-Stack AI"
+    ]
+  },
+  "services": {
+    "label": "What We Do",
+    "heading": "Two Domains. One Partner.",
+    "subheading": "Whether you need custom enterprise software or industrial automation systems — or both — we deliver complete, integrated solutions.",
+    "it_badge": "IT Solutions",
+    "it_heading": "Software, AI & Digital Products",
+    "ot_badge": "Industrial Automation",
+    "ot_heading": "SCADA, IIoT & OT Systems",
+    "quote": "\"Our core strength is the bridge — we are equally fluent in a PLC ladder logic session and a React codebase.\"",
+    "it_services": [
+      {
+        "title": "Web & SaaS Development",
+        "desc": "Custom web platforms, SaaS products, dashboards, and enterprise portals built with React, Node.js, Python, and FastAPI."
+      },
+      {
+        "title": "AI & Intelligent Agents",
+        "desc": "Conversational AI agents, natural language query systems, GPT-powered assistants, and ML-driven automation."
+      },
+      {
+        "title": "IoT Dashboard Platforms",
+        "desc": "Real-time monitoring dashboards for industrial and enterprise data streams with AI-powered querying."
+      },
+      {
+        "title": "Mobile Applications",
+        "desc": "Native and cross-platform mobile apps for Android and iOS using React Native and Flutter."
+      },
+      {
+        "title": "ERP & CRM Systems",
+        "desc": "Custom ERP solutions for schools, manufacturing, healthcare, retail, and logistics."
+      },
+      {
+        "title": "QA, Cloud & DevOps",
+        "desc": "Quality assurance, automated testing, cloud infrastructure (AWS, Azure, GCP), and CI/CD pipelines."
+      }
+    ],
+    "ot_services": [
+      {
+        "title": "Ignition SCADA Engineering",
+        "desc": "Design, deployment, and customization of Ignition SCADA platforms for manufacturing and process industries."
+      },
+      {
+        "title": "PLC & Equipment Integration",
+        "desc": "Siemens, Allen Bradley, Modbus, OPC-UA device integration into centralized control systems."
+      },
+      {
+        "title": "Industrial IoT Architecture",
+        "desc": "IIoT pipeline design: edge devices → MQTT → data historian → real-time dashboards → AI analytics layer."
+      },
+      {
+        "title": "Node-RED & MQTT Automation",
+        "desc": "Event-driven industrial workflow automation using Node-RED pipelines and MQTT broker architectures."
+      },
+      {
+        "title": "HMI Dashboard Development",
+        "desc": "Real-time production monitoring HMIs, downtime tracking, OEE calculation, and KPI visualization."
+      },
+      {
+        "title": "Manufacturing Analytics",
+        "desc": "Production analytics, reporting systems, predictive maintenance models, and operational intelligence."
+      }
+    ]
+  },
+  "work": {
+    "label": "Our Work",
+    "heading": "Products Built for Real Industries",
+    "subheading": "From controlled-environment farming AI to heavy industrial power plant monitoring — these are real solutions deployed for real clients.",
+    "poc_note": "All links above are Proof-of-Concept deployments. Production systems are deployed on client cloud or private on-premise infrastructure per client requirements.",
+    "view_poc": "View POC →",
+    "client_label": "Client",
+    "projects": [
+      {
+        "client": "Agritecture",
+        "title": "AgriVerse AI — Farming Intelligence Agent",
+        "desc": "An AI agent specialized in guiding users through controlled environment farming decisions. Built for Agritecture, a global leader in urban agriculture consulting. The agent handles complex queries about crop selection, system design, and operational planning — making expert farming knowledge accessible in plain language.",
+        "tags": ["AI Agent", "Controlled Env. Farming", "React + Python"],
+        "metrics": ["AI-Guided CEA Planning", "Natural Language Queries", "Deployed on Vercel"],
+        "stack": ["React", "FastAPI", "LangChain", "GPT-4", "PostgreSQL"],
+        "url": "https://agriverse-ai-frontend-umar-main.vercel.app/"
+      },
+      {
+        "client": "BiPOM",
+        "title": "WiPortal — Smart IoT Monitoring Platform",
+        "desc": "A multi-tenant IoT dashboard built for BiPOM's clients who deploy agricultural hardware sensors across farming sites. Features real-time sensor monitoring, time-series data visualization, and a custom AI layer that lets users ask complex sensor data questions in plain English — answering in layman's terms.",
+        "tags": ["IoT Dashboard", "Agriculture Tech", "AI-Integrated"],
+        "metrics": ["Multi-Site Sensor Monitoring", "NL Query: Why did moisture drop?", "Cloud + On-Prem Deployable"],
+        "stack": ["React", "FastAPI", "TimescaleDB", "LangChain", "Recharts", "Redis"],
+        "url": "https://agriverse-ai-frontend-umar-main.vercel.app/"
+      },
+      {
+        "client": "Q3Power",
+        "title": "Q3Power IIoT — Industrial Plant Monitor",
+        "desc": "A real-time IIoT monitoring dashboard for heavy industrial power plant operations. Q3Power was already an industrial automation client — we extended our engagement to deliver a full-stack IT solution layered on top of their existing OT infrastructure. Features real-time thermal sensor monitoring, trend analysis, and machine health visualization.",
+        "tags": ["IIoT Monitoring", "Power Plants", "Industrial"],
+        "metrics": ["Real-Time Plant Monitoring", "Multi-Sensor Temperature Tracking", "IT Layer on Existing OT Infrastructure"],
+        "stack": ["React", "Recharts", "TimescaleDB", "FastAPI", "MQTT", "Node-RED"],
+        "url": "https://q3-demo-dash.vercel.app/"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Get In Touch",
+    "heading": "Let's Build Something Together",
+    "subheading": "Whether you're planning a SCADA upgrade, building a SaaS product, or need AI integrated into your operations — let's talk.",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "inquiry": "Inquiry Type",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending…",
+    "inquiry_options": [
+      "Software Development",
+      "AI Solutions",
+      "Industrial Automation",
+      "IoT Dashboard",
+      "ERP/CRM",
+      "Consulting",
+      "Other"
+    ],
+    "success": "Message sent! We'll get back to you within 24 hours.",
+    "info_heading": "Direct Contact",
+    "schedule_heading": "Schedule a Consultation",
+    "schedule_body": "30-minute discovery call to understand your requirements and how we can help.",
+    "schedule_cta": "Book a Call",
+    "industries_label": "Industries We Serve",
+    "industries": [
+      "Manufacturing",
+      "Pharmaceuticals",
+      "Healthcare",
+      "Education",
+      "Energy & Utilities",
+      "Industrial Automation",
+      "Technology Startups",
+      "Agriculture"
+    ]
+  },
+  "footer": {
+    "tagline": "Bridging IT and Industrial Automation.",
+    "services_heading": "Services",
+    "company_heading": "Company",
+    "services_links": [
+      "IT Solutions",
+      "Industrial Automation",
+      "AI Solutions",
+      "IoT Dashboards",
+      "ERP Systems",
+      "SCADA Engineering"
+    ],
+    "company_links": ["About", "Case Studies", "Contact", "Schedule a Call"],
+    "copyright": "© 2025 Onetechmated Solutions. All rights reserved."
+  }
+}

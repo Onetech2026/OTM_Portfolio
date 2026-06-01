@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #0a0f1e;
+  --bg-surface: #0d1526;
+  --bg-card: #111d35;
+  --accent-cyan: #00c8ff;
+  --accent-blue: #3b82f6;
+  --text-primary: #f0f4ff;
+  --text-secondary: #8b9cc0;
+  --text-muted: #4a5880;
+  --border: rgba(255, 255, 255, 0.07);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--text-primary);
+    margin: 0;
+  }
+}
+
+/* Smooth scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0f1e;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e3a5f;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00c8ff;
+}
+
+/* Selection */
+::selection {
+  background: rgba(0, 200, 255, 0.2);
+  color: #f0f4ff;
+}
+
+/* Dot grid (apply to hero) */
+.dot-grid {
+  background-image: radial-gradient(rgba(0, 200, 255, 0.06) 1px, transparent 1px);
+  background-size: 36px 36px;
+}
+
+/* Gradient text utility */
+.gradient-text {
+  background: linear-gradient(135deg, #00c8ff 0%, #3b82f6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glass card base */
+.glass {
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+/* Gradient border box (contact schedule card) */
+.gradient-border {
+  border: 1px solid transparent;
+  background-image: linear-gradient(#0d1526, #0d1526),
+    linear-gradient(135deg, #00c8ff, #3b82f6);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+/* Hero marquee */
+.marquee-track {
+  animation: marquee 32s linear infinite;
+}
+.marquee-mask:hover .marquee-track {
+  animation-play-state: paused;
+}
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* RTL: Arabic font override */
+[dir='rtl'] {
+  font-family: 'Noto Sans Arabic', 'Inter', system-ui, sans-serif;
+}
+
+/* RTL: flip hero marquee direction */
+[dir='rtl'] .marquee-track {
+  animation-direction: reverse;
+}
+
+/* RTL: ensure gradient text still works */
+[dir='rtl'] .gradient-text {
+  background: linear-gradient(225deg, #00c8ff 0%, #3b82f6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* RTL: better Arabic readability */
+[dir='rtl'] p {
+  line-height: 2;
+}
+
+/* Glowing section divider */
+.section-divider {
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(0, 200, 255, 0.4),
+    transparent
+  );
+  box-shadow: 0 0 18px 1px rgba(0, 200, 255, 0.25);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
